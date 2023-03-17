@@ -184,9 +184,3 @@ body {
 
     color: var(--botao-azul);
 }
-
-.lista__link a:active {
-
-    color: #3d3d3d;
-}
-

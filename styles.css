@@ -176,11 +176,6 @@ body {
     font-family: var(--fonte-principal);
     font-size: 14px;
     margin: 2em 8em;
-    color: var(--cinza-secundario);
+    color: #3d3d3d;
     background-size: contain;
-}
-
-.lista__link a:hover {
-
-    color: var(--botao-azul);
 }
